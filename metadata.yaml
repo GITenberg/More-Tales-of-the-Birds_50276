@@ -1,9 +1,13 @@
 _repo: More-Tales-of-the-Birds_50276
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Fuller, Frances L.
     gutenberg_agent_id: '45788'
     url: http://www.gutenberg.org/2009/agents/45788
+covers:
+- cover_type: archival
+  image_path: 50276-h/images/cover.jpg
 creator:
   author:
     agent_name: Fowler, W. Warde (William Warde)
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '3907'
     url: http://www.gutenberg.org/2009/agents/3907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50276#More-Tales-of-the-Birds
 gutenberg_issued: '2015-10-22'
 gutenberg_type: Text
 identifiers:
